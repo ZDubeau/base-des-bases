@@ -1,2 +1,2 @@
 # Group.1
-# Dominique, Zahra, Hamid, Kévin
+Dominique, Zahra, Hamid, Kévin
